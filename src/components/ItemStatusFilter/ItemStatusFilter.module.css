@@ -1,0 +1,18 @@
+.button {
+    height: 50px;
+    width: 50px;
+    font-size: 14px;
+    text-align: center;
+    color: black;
+    background-color: silver;
+    border-radius: 8px;
+}
+.button:active{
+    background-color: rgb(235, 167, 135);
+}
+.buttons{
+    align-items: center;
+    display: block;
+    margin-left: 40px;
+    margin-right: auto
+}
